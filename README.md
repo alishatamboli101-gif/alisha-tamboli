@@ -44,6 +44,3 @@ The production build is generated in the `build/` directory.
 
 This project includes a `netlify.toml` file for Netlify deployment.
 
-## Notes
-
-If you are using multiple GitHub accounts, make sure your repo remote URL matches the correct SSH host alias configured in `~/.ssh/config`.
