@@ -17,7 +17,6 @@ A modern portfolio website built with React, Vite, and GSAP animations.
 ```bash
 npm install
 ```
-
 ### 2. Start development server
 
 ```bash
