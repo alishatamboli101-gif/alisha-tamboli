@@ -1,0 +1,27 @@
+<svg width="800" height="900" viewBox="0 0 800 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="900" rx="40" fill="#111111"/>
+
+  <!-- soft backdrop -->
+  <circle cx="400" cy="320" r="190" fill="#ff7eb6" opacity="0.12"/>
+
+  <!-- hijab outer -->
+  <path d="M200 710C210 560 300 460 400 460C500 460 590 560 600 710" stroke="#ff7eb6" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M210 690C230 580 310 500 400 500C490 500 570 580 590 690" stroke="#ff5fa2" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- head + inner face -->
+  <circle cx="400" cy="330" r="120" fill="#ff7eb6"/>
+  <circle cx="400" cy="330" r="92" fill="#121212"/>
+
+  <!-- face doodle -->
+  <path d="M330 318C350 300 370 292 400 292C430 292 450 300 470 318" stroke="#ff7eb6" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="365" cy="340" r="10" fill="#ff7eb6"/>
+  <circle cx="435" cy="340" r="10" fill="#ff7eb6"/>
+  <path d="M365 380C385 398 415 398 435 380" stroke="#ff7eb6" stroke-width="12" stroke-linecap="round"/>
+
+  <!-- hijab top stroke -->
+  <path d="M250 240C300 190 350 165 400 165C450 165 500 190 550 240" stroke="#ff7eb6" stroke-width="20" stroke-linecap="round" opacity="0.7"/>
+
+  <!-- shoulders -->
+  <path d="M260 560C310 540 350 540 400 560" stroke="#ff7eb6" stroke-width="14" stroke-linecap="round" opacity="0.7"/>
+  <path d="M400 560C450 540 490 540 540 560" stroke="#ff7eb6" stroke-width="14" stroke-linecap="round" opacity="0.7"/>
+</svg>
